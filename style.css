@@ -353,6 +353,7 @@ a:visited{
     font-family:monospace;
     text-decoration:underline wavy;
     color:#00ff00;
+    text-align:center;
     text-shadow:2px 2px 1px darkgreen;
 }
 
@@ -380,6 +381,7 @@ footer{
 
 footer p{
     margin-left:20px;
+    
 }
 li{
     transition:transform 200ms ease;
