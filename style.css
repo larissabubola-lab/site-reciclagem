@@ -377,3 +377,13 @@ footer{
     border-right:none;
     box-shadow:-5px -5px 10px grey, -5px -5px 10px white inset;
 }
+
+footer p{
+    margin-left:20px;
+}
+li{
+    transition:transform 200ms ease;
+}
+li:hover{
+    transform:scale(1.1)
+}
